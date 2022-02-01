@@ -1,5 +1,4 @@
-# No show appointments (original source on
-Kaggle)
+# No show appointments (original source on Kaggle)
 This dataset collects information
 from 100k medical appointments in
 Brazil and is focused on the question
